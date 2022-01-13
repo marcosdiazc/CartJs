@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "foto": "../imagenes/iconobus.jpg",
+    "nombre": "1 viaje",
+    "precio": 100
+},
+{
+    "id": 2,
+    "foto": "../imagenes/iconobus.jpg",
+    "nombre": "3 viajes",
+    "precio": 250
+},
+{
+    "id": 3,
+    "foto": "../imagenes/iconobus.jpg",
+    "nombre": "5 viajes",
+    "precio": 400
+},
+{
+    "id": 4,
+    "foto": "../imagenes/iconobus.jpg",
+    "nombre": "10 viajes",
+    "precio": 900
+}
+]

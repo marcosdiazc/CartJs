@@ -1,0 +1,169 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    
+}
+
+
+
+/* Style boton cart */
+
+.cartImg {
+    width: 45px; 
+    cursor: pointer;
+}
+
+#cartNumbers {
+    background-color: #206a5d;
+    width: 23px;
+    height: 23px;
+    border-radius: 100%;
+    text-align: center;
+    position: relative;
+    top: -11px;
+    right: 6px;
+    cursor: pointer;
+}
+
+.imagenCarrito {
+    height: 250px;
+}
+
+
+.imagenesModal {
+    height: 95px;
+    width: 90px;
+    border-radius: 5%;
+}
+
+.inputCuenta {
+    max-width: 49px;
+}
+
+.table-image {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.precioTotal {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+/* Style footer */
+
+footer{
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+    margin-top: 50px;
+
+  }
+
+  #pagina {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  #contenido {
+    padding-bottom:50px; /* este valor debe ser igual o mayor al alto del pie */
+  }
+  
+  #pie {
+    height:50px;
+    line-height:50px;
+    background:black;
+    color:white;
+    text-align:center;
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+  }
+
+
+
+  /*about us */
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #206a5d;
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    background-color: lightcoral;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    align-content: center;
+}
+
+  #sections {
+    margin: 5em 5em;
+    background-color: #6E447A;
+    color: #001E4D;
+    padding: 2rem 0;
+  }
+
+  #sections .titulos-documento {
+    margin: 0 auto;
+    text-transform: uppercase;
+    color: #001E4D;
+  }
+
+  #sections .titulos-main-destacado {
+    color: #00377C;
+  }
+  
+  #sections .titulos-seccion {
+    color: #6E447A;
+    padding: 1em;
+    font-size: 3mm;
+  }
+  
+ 
+  
+  #sections .seccion-flex {
+    display: flex;
+    padding: 7em;
+  }
+  
+
+  .jumbotron jumbotron-fluid {
+    color: #6E447A;
+    background-color: #F73C58;
+  }
+  
+    .jumbotron-fluid {
+        background-color: gainsboro;
+        padding: 5em;
+    }
+  .hero-container {
+    padding: 5em;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #6E447A;
+  }
+
+  h1 {
+    font-size: 50px;
+    color: #00377C;
+    text-align: center;
+  }
+  
+  .subtitle-hero {
+    color: #9198BD;
+    font-size: 30px;
+    text-align: center;
+  }
